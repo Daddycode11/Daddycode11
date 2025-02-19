@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Jowel Dionisio Paña</h1>
 <h3 align="center">A passionate frontend & Software developer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daddycode11&label=Profile%20views&color=0e75b6&style=flat" alt="daddycode11" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=daddycode11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daddycode11" alt="daddycode11" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=daddycode11" alt="GitHub Trophies" />
+</p>
+
+<!-- Developer Animation -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer Animation" width="400"/>
+</p>
 
 - 🔭 I’m currently working on **Angular Web Based Booking app**
 
