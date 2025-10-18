@@ -10,7 +10,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Developer Animation"/>
+  <img src="https://github.com/daddycode11/assets/blob/main/3d-developer.gif?raw=true" width="400" alt="3D Developer Animation"/>
 </div>
 
 <h3 align="center">💻 Frontend & Software Developer | 🎮 Game Dev Enthusiast | 🚀 Tech Innovator</h3>
@@ -88,24 +88,3 @@
   <img src="https://komarev.com/ghpvc/?username=daddycode11&label=Profile+Views&color=00FFCC&style=flat-square" alt="Profile views"/>
 </p>
 
----
-
-## 🌌 Animated Background + Floating Emoji Demo
-
-> 🎨 **Live Animation:**  
-> [🌀 View on CodePen →](YOUR_CODEPEN_URL_HERE)
-
----
-
-## 🧩 Code for the Animated Background (to host in CodePen)
-
-### HTML
-```html
-<div class="background"></div>
-<div class="emoji-container">
-  <span>💻</span>
-  <span>🧠</span>
-  <span>🚀</span>
-  <span>🎮</span>
-  <span>📱</span>
-</div>
