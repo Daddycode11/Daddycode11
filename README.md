@@ -10,7 +10,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github.com/daddycode11/assets/blob/main/3d-developer.gif?raw=true" width="400" alt="3D Developer Animation"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5055945/media/4e7c58d18cf5f276d7dbb2b0f170b4f0.gif" width="400" alt="3D Developer Animation"/>
 </div>
 
 <h3 align="center">💻 Frontend & Software Developer | 🎮 Game Dev Enthusiast | 🚀 Tech Innovator</h3>
