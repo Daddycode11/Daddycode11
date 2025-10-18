@@ -6,8 +6,20 @@
 </p>
 
 <h1 align="center">
-  🌈 Hi, I'm <span style="color:#00FFC8;">Jowel Dionisio Paña</span> 👋  
+  👋 Hi, I'm <span style="color:#00FFC8;">Jowel Dionisio Paña</span>
 </h1>
+
+<h3 align="center">
+  🎮 2D Game Developer & 💻 Software Developer from the Philippines  
+</h3>
+
+<p align="center" style="font-size: 16px; color: #B0BEC5; max-width: 700px; line-height: 1.6;">
+  I'm a passionate developer who loves transforming ideas into interactive experiences — 
+  from <strong>fun and engaging 2D games</strong> to <strong>modern web and mobile applications</strong>.  
+  I focus on clean design, smooth user experience, and functional creativity powered by technologies like 
+  <strong>Angular</strong>, <strong>Flutter</strong>, <strong>Laravel</strong>, and <strong>Unity</strong>.  
+</p>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="3D Developer Animation"/>
