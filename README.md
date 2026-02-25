@@ -1,432 +1,227 @@
-<!-- ============================================================ -->
-<!--  JDP.DEV — GitHub Profile README                           -->
-<!--  Cyberpunk · Game Dev · Full-Stack · Philippines           -->
-<!-- ============================================================ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--   Jowel Dionisio Paña  ·  Professional Developer README   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- ─── HERO BANNER ─── -->
+<!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050A12,40:0B1120,80:00FFC8,100:FF4D7E&height=300&section=header&text=Jowel%20Dionisio%20Pa%C3%B1a&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=2D%20Game%20Developer%20%20%E2%80%A2%20%20Software%20Developer%20%20%E2%80%A2%20%20Tech%20Innovator&descSize=16&descColor=00FFC8&descAlignY=62&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 </div>
 
-<!-- ─── TYPING SVG ─── -->
 <div align="center">
-<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=00FFC8&center=true&vCenter=true&width=680&lines=%F0%9F%9F%A2+AVAILABLE+FOR+COLLAB+%C2%B7+PHILIPPINES;%F0%9F%8E%AE+2D+Game+Developer+%7C+Unity+%26+C%23;%F0%9F%92%BB+Full-Stack+Developer+%7C+Angular+%26+Laravel;%F0%9F%93%B1+Mobile+Developer+%7C+Flutter+%26+Firebase;%F0%9F%9A%80+Tech+Innovator+%7C+Always+Building)](https://git.io/typing-svg)
+# Jowel Dionisio Paña
 
-</div>
-
-<!-- ─── STATUS BADGES ─── -->
-<div align="center">
-<br/>
-
-![Status](https://img.shields.io/badge/%E2%97%8F%20OPEN%20TO%20COLLABORATE-00FFC8?style=flat-square&labelColor=050A12)&nbsp;
-![Location](https://img.shields.io/badge/%F0%9F%93%8D%20PHILIPPINES-FF4D7E?style=flat-square&labelColor=050A12)&nbsp;
-![Mode](https://img.shields.io/badge/%F0%9F%8E%A7%20HEADPHONES%20ON-FFD600?style=flat-square&labelColor=050A12)&nbsp;
-![Views](https://komarev.com/ghpvc/?username=daddycode11&label=PROFILE+VIEWS&color=00FFC8&style=flat-square)
-
-</div>
+**`Full-Stack Developer · 2D Game Developer · Tech Innovator`**
 
 <br/>
 
-<!-- ─── HERO GIF ─── -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" style="border-radius:16px;" alt="Developer at work"/>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Crafting+scalable+web+%26+mobile+applications;Building+immersive+2D+game+experiences;Turning+ideas+into+interactive+products;Angular+%7C+Flutter+%7C+Laravel+%7C+Unity)](https://git.io/typing-svg)
 
 <br/>
+
+![Available](https://img.shields.io/badge/Available%20for%20Work-2EA043?style=flat&logo=checkmarx&logoColor=white)
+&nbsp;
+![Philippines](https://img.shields.io/badge/Philippines-0969DA?style=flat&logo=googlemaps&logoColor=white)
+&nbsp;
+![Full Stack](https://img.shields.io/badge/Full--Stack%20Developer-6E40C9?style=flat&logo=stackshare&logoColor=white)
+&nbsp;
+![Game Dev](https://img.shields.io/badge/2D%20Game%20Developer-C9510C?style=flat&logo=unity&logoColor=white)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=daddycode11&label=Profile+Views&color=58A6FF&style=flat)
+
+</div>
 
 ---
 
-<br/>
+## 👤 About Me
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--  01 · WHO I AM                                               -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6&height=2&section=header" width="100%"/>
+I'm a passionate developer from the **Philippines** with a strong focus on building clean, functional, and visually refined software — from **modern web and mobile applications** to **engaging 2D game experiences**.
 
-### <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=99999&color=00FFC8&width=30&lines=01" alt="01"/> &nbsp; 🧑‍💻 &nbsp; WHO I AM
+I care deeply about developer craft: readable code, thoughtful architecture, and experiences that feel *just right* to the end user.
 
-<br/>
-
-```js
-/**
- * ╔═══════════════════════════════════════════════════╗
- * ║          JOWEL DIONISIO PAÑA  — JDP.DEV           ║
- * ║          Developer Profile  ·  v2.0               ║
- * ╚═══════════════════════════════════════════════════╝
- */
-
-const jowel = {
-  name       : "Jowel Dionisio Paña",
-  location   : "Philippines 🇵🇭",
-  roles      : [
-    "🎮  2D Game Developer",
-    "💻  Full-Stack Web Developer",
-    "📱  Mobile App Developer",
-    "🚀  Tech Innovator",
-  ],
-  currently  : "Building an Angular Web-Based Booking App 🔭",
-  learning   : ["Angular", "Java", "Laravel", "Unity"],
-  openTo     : ["Freelance", "Collaborations", "Wild Ideas ⚡"],
-  coffee     : true,   // ☕ critical dependency
-  music      : "always 🎧",
-  contact    : "mr.techdeveloper2019@gmail.com",
-};
-
-// ~ node developer.js
-// › open_to_work:        true
-// › coffee_dependent:    true
-// › music_while_coding:  always █
-console.log("Bugs are just features in disguise 🐛 → ✨");
+```yaml
+name        : Jowel Dionisio Paña
+location    : Philippines 🇵🇭
+focus       : Web · Mobile · Game Development
+currently   : Angular Web-Based Booking App
+learning    : Angular · Java · Laravel · Unity
+open_to     : Freelance · Collaborations
+contact     : mr.techdeveloper2019@gmail.com
 ```
 
-<br/>
-
-<!-- ABOUT CARDS — 2×2 grid via HTML table -->
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🎮 &nbsp; GAME DEVELOPER**
-
-Passionate about crafting immersive 2D experiences in Unity. I love building game mechanics, creative systems, and interactive storytelling that keeps players engaged.
-
-</td>
-<td width="50%" valign="top">
-
-**💻 &nbsp; SOFTWARE DEVELOPER**
-
-Building modern web and mobile applications using Angular, Flutter, and Laravel — focused on clean architecture, scalable code, and seamless UX.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🎨 &nbsp; CREATIVE THINKER**
-
-Design-minded developer who bridges aesthetics and functionality. Every pixel matters — from UI polish to smooth micro-interactions.
-
-</td>
-<td width="50%" valign="top">
-
-**🌱 &nbsp; LIFELONG LEARNER**
-
-Currently leveling up in Angular, Java, Laravel, and Unity. Always exploring new tech and methodologies to stay ahead of the curve.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- QUICK FACTS -->
-<div align="center">
-
-| &nbsp; | &nbsp; |
-|:------:|:-------|
-| 🔭 | Currently building **Angular Web-Based Booking App** |
-| 🌱 | Learning **Angular · Java · Laravel · Unity** |
-| 🎮 | Passionate about **Game Development & Creative Systems** |
-| 🤝 | Open to **Mobile & Web Project Collaborations** |
-| 📫 | **mr.techdeveloper2019@gmail.com** |
-| 📍 | Based in **Philippines** |
-| ⚡ | Debug mode: **Headphones on · Laser focused** |
-
-</div>
-
-<br/>
+<br clear="right"/>
 
 ---
 
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--  02 · CONNECT                                                -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-### `02` &nbsp; 🌐 &nbsp; CONNECT WITH ME
-
-<br/>
+## 🔗 Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jowel-pa%c3%b1a-bab72331a" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;
-<a href="https://www.facebook.com/jowjow.dionisio/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>&nbsp;
-<a href="https://github.com/daddycode11" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-050A12?style=for-the-badge&logo=github&logoColor=00FFC8"/>
-</a>&nbsp;
-<a href="mailto:mr.techdeveloper2019@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jowel%20Pa%C3%B1a-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jowel-pa%c3%b1a-bab72331a)
+&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-jowjow.dionisio-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jowjow.dionisio/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-daddycode11-161B22?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/daddycode11)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.techdeveloper2019@gmail.com)
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--  03 · LANGUAGES & TOOLS                                      -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-### `03` &nbsp; 🧠 &nbsp; LANGUAGES & TOOLS
-
-<br/>
+## ⚙️ Tech Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%E2%94%80%E2%94%80%20FRONTEND%20%E2%94%80%E2%94%80-00FFC8?style=flat-square&labelColor=050A12&color=0B1120"/>
-
-<br/><br/>
-
+### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,vue&theme=dark&perline=7"/>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/%E2%94%80%E2%94%80%20BACKEND%20%26%20MOBILE%20%E2%94%80%E2%94%80-FF4D7E?style=flat-square&labelColor=050A12&color=0B1120"/>
-
-<br/><br/>
-
+### Backend & Mobile
 <img src="https://skillicons.dev/icons?i=laravel,php,java,python,flutter,firebase,mysql&theme=dark&perline=7"/>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/%E2%94%80%E2%94%80%20GAME%20DEV%20%26%20TOOLS%20%E2%94%80%E2%94%80-FFD600?style=flat-square&labelColor=050A12&color=0B1120"/>
-
-<br/><br/>
-
+### Game Dev & Tools
 <img src="https://skillicons.dev/icons?i=unity,blender,figma,git,github,vscode&theme=dark&perline=6"/>
 
 </div>
 
 <br/>
 
-<!-- SKILLS TABLE -->
 <div align="center">
 
-| Domain | Stack |
+| Layer | Technologies |
 |:---:|:---|
-| 🌐 **Frontend** | `HTML` &nbsp; `CSS` &nbsp; `JavaScript` &nbsp; `TypeScript` &nbsp; `Angular` &nbsp; `React` &nbsp; `Vue` |
-| 📱 **Mobile** | `Flutter` &nbsp; `Dart` &nbsp; `Firebase` |
-| ⚙️ **Backend** | `Laravel` &nbsp; `PHP` &nbsp; `Java` &nbsp; `Python` &nbsp; `MySQL` |
-| 🎮 **Game Dev** | `Unity` &nbsp; `C#` &nbsp; `Blender` &nbsp; `2D Physics` |
-| 🛠️ **DevTools** | `Git` &nbsp; `GitHub` &nbsp; `Figma` &nbsp; `VS Code` |
+| 🖥️ **Frontend** | HTML · CSS · JavaScript · TypeScript · Angular · React · Vue |
+| 📱 **Mobile** | Flutter · Dart · Firebase |
+| 🔧 **Backend** | Laravel · PHP · Java · Python · MySQL |
+| 🎮 **Game Dev** | Unity · C# · Blender · 2D Physics |
+| 🛠 **Tooling** | Git · GitHub · Figma · VS Code |
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--  04 · WHAT I BUILD                                           -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-### `04` &nbsp; 🎯 &nbsp; WHAT I BUILD
-
-<br/>
+## 🧩 What I Build
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center">
+<td valign="top" width="33%">
 
-<br/>
+### 🌐 Web Applications
+Scalable, component-driven web apps using **Angular** and **Laravel** — built for performance, maintainability, and great user experience.
 
-![WEB](https://img.shields.io/badge/WEB-00FFC8?style=for-the-badge&labelColor=050A12)
-
-### 🌐 Angular Web Apps
-
-Scalable, component-driven web apps with clean architecture, reactive state management, and polished UI interactions that delight users.
-
-<br/>
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
-<td width="33%" valign="top" align="center">
+<td valign="top" width="33%">
 
-<br/>
+### 🎮 2D Game Development
+Immersive 2D games in **Unity** with creative mechanics, pixel-level polish, and game loops that keep players coming back.
 
-![GAME](https://img.shields.io/badge/GAME-FF4D7E?style=for-the-badge&labelColor=050A12)
-
-### 🎮 2D Game Dev
-
-Engaging 2D games in Unity with creative mechanics, pixel art aesthetics, and satisfying game loops that keep players coming back.
-
-<br/>
-
-![Unity](https://img.shields.io/badge/Unity-050A12?style=flat-square&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-1C1C1C?style=flat-square&logo=unity&logoColor=white)
+![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 
 </td>
-<td width="33%" valign="top" align="center">
+<td valign="top" width="33%">
 
-<br/>
+### 📱 Mobile Applications
+Cross-platform mobile apps with **Flutter** — beautiful, native-feeling UIs that run flawlessly on both iOS and Android.
 
-![MOBILE](https://img.shields.io/badge/MOBILE-FFD600?style=for-the-badge&labelColor=050A12&color=FFD600)
-
-### 📱 Flutter Apps
-
-Cross-platform apps with beautiful, native-feeling UIs — one codebase, every device, flawless performance.
-
-<br/>
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 </td>
 </tr>
 </table>
 
-<br/>
-
 ---
 
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--  05 · ACHIEVEMENTS / TROPHIES                                -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-### `05` &nbsp; 🏆 &nbsp; ACHIEVEMENTS
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daddycode11&theme=darkhub&no-frame=true&margin-w=8&column=7" width="100%"/>
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--  06 · GITHUB STATS                                           -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-### `06` &nbsp; 📊 &nbsp; BY THE NUMBERS
-
-<br/>
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=daddycode11&show_icons=true&theme=react&hide_border=true&bg_color=050A12&title_color=00FFC8&icon_color=FF4D7E&text_color=C8D8E8&border_radius=14" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=daddycode11&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&ring_color=6E40C9" height="185"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daddycode11&layout=compact&theme=react&hide_border=true&bg_color=050A12&title_color=00FFC8&text_color=C8D8E8&border_radius=14" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daddycode11&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" height="185"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daddycode11&theme=react&hide_border=true&background=050A12&ring=00FFC8&fire=FF4D7E&currStreakLabel=00FFC8&sideLabels=C8D8E8&dates=5A7A9A&sideNums=ffffff&border_radius=14" width="67%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daddycode11&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=8B949E&dates=484F58&sideNums=E6EDF3" width="65%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daddycode11&bg_color=050A12&color=00FFC8&line=00FFC8&point=FF4D7E&area=true&area_color=00FFC8&hide_border=true&radius=14" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daddycode11&bg_color=0D1117&color=58A6FF&line=6E40C9&point=58A6FF&area=true&area_color=6E40C9&hide_border=true&radius=8" width="100%"/>
 </div>
-
-<br/>
 
 ---
 
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--  07 · DEVELOPER MOOD                                         -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-### `07` &nbsp; 🎮 &nbsp; DEVELOPER LIFE
-
-<br/>
+## 🏆 Achievements
 
 <div align="center">
-
-<img src="https://i.pinimg.com/originals/23/9b/4f/239b4f0b4b89f99b3d460e0ed5e0a77b.gif" width="380" alt="Coding Mood"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=daddycode11&theme=github_dark&no-frame=true&margin-w=8&column=7" width="100%"/>
 </div>
 
-<br/>
+---
+
+## 💡 Developer Principle
 
 <div align="center">
 
 ```
-  "It's not a bug, it's an undocumented feature."
-  ─────────────────────────────────────────────────
-  Debugging status: headphones on 🎧  ·  laser focused 🔥
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   "Clean code always looks like it was written by someone   │
+│    who cares."  — Robert C. Martin                          │
+│                                                             │
+│    Write code for humans first, machines second.            │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
+
+<img src="https://i.pinimg.com/originals/23/9b/4f/239b4f0b4b89f99b3d460e0ed5e0a77b.gif" width="320"/>
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--  08 · SUPPORT                                                -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-### `08` &nbsp; ☕ &nbsp; FUEL THE GRIND
-
-<br/>
+## ☕ Support My Work
 
 <div align="center">
 
-If my projects have helped you or just made you smile — consider buying me a coffee! ☕
+*If my projects have been useful to you, a coffee goes a long way.*
 
-<br/><br/>
+<br/>
 
 <a href="https://www.buymeacoffee.com/Daddycode11" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="54" alt="Buy Me A Coffee"/>
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://ko-fi.com/Daddycode11" target="_blank">
-  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="54" alt="Ko-fi"/>
+  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50"/>
 </a>
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-<!-- ─── FOOTER WAVE ─── -->
+<!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A12,50:00FFC8,100:FF4D7E&height=140&section=footer&reversal=false" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262D,100:0D1117&height=100&section=footer" width="100%"/>
 </div>
 
 <div align="center">
-  <sub>
-    Crafted with ❤️ &nbsp;&amp;&nbsp; ☕ &nbsp;by&nbsp; <b>Jowel Dionisio Paña</b> &nbsp;·&nbsp; 🇵🇭 Philippines &nbsp;·&nbsp; <i>Always learning · Always building</i>
-  </sub>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=daddycode11&label=Profile+Views&color=00FFC8&style=flat-square" alt="Profile views"/>
+  <sub><b>Jowel Dionisio Paña</b> &nbsp;·&nbsp; Full-Stack & Game Developer &nbsp;·&nbsp; 🇵🇭 Philippines</sub>
+  <br/>
+  <sub><i>Writing code · Building games · Shipping products</i></sub>
 </div>
